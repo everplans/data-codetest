@@ -45,7 +45,7 @@ The fields in the dataset should be self explanatory, but just to be clear:
 
 
 ## Acceptance Criteria:
-Using your preferred language or platform (Python, Jupyter Notebook, SQL, etc.) parse the dataset, clean up any noise or missing/partial data, and  ensure datatypes are correctly parsed. Create two these two synthesized datasets, and have your script save them as csv files.  
+Using your preferred language or platform (Python, Jupyter Notebook, SQL, etc.) parse the dataset, clean up any noise or missing/partial data, and  ensure datatypes are correctly parsed. Create these two synthesized datasets, and have your script save them as csv files:
 
 * create a dataset that has 1 record for each unique user ID, with the following dimensions and measures: 
 
